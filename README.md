@@ -4,8 +4,7 @@ A lightweight Python GUI for Thorlabs polarization cameras.
 Live-streams and saves the four polarization channels — **0°, 45°, 90°, -45°** — separately,
 with a sidebar to switch between quad view and individual channels.
  
-Developed and tested with the **Thorlabs CS505MUP** polarization camera. Other Thorlabs
-polarization cameras should work but have not been tested. Download ThorImageCAM and the SDK
+Developed and tested with the **Thorlabs CS505MUP** polarization camera. Download ThorImageCAM and the SDK
 from [thorlabs.com/software-pages/thorcam](https://www.thorlabs.com/software-pages/thorcam/).
  
 > The DLL files included in `ThorImageCam/` are proprietary files from **Thorlabs, Inc.**,
